@@ -38,7 +38,7 @@ public class NewClass extends JFrame {
                 else if (maze[i][j] == 9) color = Color.RED;
                 else color = Color.WHITE;
             g.setColor(color);//setting inner squares color
-            g.fillRect(30 * j, 30 * i, 30, 30);//size of inner squares
+            g.fillRect(30 * j, 30 * i, 30, 30);//size of innersquares
             g.setColor(Color.RED);//setting color of edges of inner squares
             g.drawRect(30 * j, 30 * i, 30, 30);//drawing on the edges on inner squares
         }
