@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6a1bd63-db1d-4c0f-8e72-061b78ac6922" name="Changes" comment="added explanation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DFS.java" afterDir="false" />
+    <list default="true" id="d6a1bd63-db1d-4c0f-8e72-061b78ac6922" name="Changes" comment="created dfs base path search fun class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NewClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,26 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="NewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NewClass" />
+      <module name="Maze_Solver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690287917966</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created dfs base path search fun class">
+      <created>1690359205827</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690359205827</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +135,7 @@
     <MESSAGE value="base commit" />
     <MESSAGE value="grid is made" />
     <MESSAGE value="added explanation" />
-    <option name="LAST_COMMIT_MESSAGE" value="added explanation" />
+    <MESSAGE value="created dfs base path search fun class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created dfs base path search fun class" />
   </component>
 </project>
