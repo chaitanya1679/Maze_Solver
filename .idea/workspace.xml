@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6a1bd63-db1d-4c0f-8e72-061b78ac6922" name="Changes" comment="base commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NewClass.java" afterDir="false" />
+    <list default="true" id="d6a1bd63-db1d-4c0f-8e72-061b78ac6922" name="Changes" comment="added explanation">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +61,52 @@
       <option name="presentableId" value="Default" />
       <updated>1690282235878</updated>
     </task>
+    <task id="LOCAL-00001" summary="grid is made">
+      <created>1690287219519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690287219519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added explanation">
+      <created>1690287646586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690287646586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added explanation">
+      <created>1690287660503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690287660503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added explanation">
+      <created>1690287917966</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690287917966</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="base commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="base commit" />
+    <MESSAGE value="grid is made" />
+    <MESSAGE value="added explanation" />
+    <option name="LAST_COMMIT_MESSAGE" value="added explanation" />
   </component>
 </project>
