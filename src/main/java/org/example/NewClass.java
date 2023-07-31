@@ -7,7 +7,7 @@ import java.util.List;
 
 public class NewClass extends JFrame {
     //maze grid
-    private int[][] maze =
+    private final int[][] maze =
             {{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,},
                     {1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1},
                     {1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1},
@@ -25,7 +25,7 @@ public class NewClass extends JFrame {
         setTitle("Maze");
         setSize(640, 720);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        DFS.pathsearch(maze,0,0,path);
+        DFS.pathsearch(maze,4,4,path);
         //System.out.println(path); //to see if path is working or not
     }
 
